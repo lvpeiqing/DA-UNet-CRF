@@ -1,4 +1,4 @@
-# DAR-U-Net
+# DA-U-Net+CRF
 
 LITS17-challenge https://competitions.codalab.org/competitions/17094#results
 
