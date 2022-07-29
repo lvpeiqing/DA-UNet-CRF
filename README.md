@@ -38,3 +38,6 @@ step4  python 2D-CRF.py or 3D-CRF.py
 visual result: MITK、ITK-SNAP、Seg3D
 
 submit result：submit_test.py
+
+训练期间可以通过指令 tensorboard --logdir runs 来监控损失与精度曲线
+
